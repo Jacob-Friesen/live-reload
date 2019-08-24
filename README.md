@@ -6,3 +6,6 @@ Just run: `npm install`
 
 # Running
 Use: `node server.js 8000`
+
+# Credits
+Based almost entirely on the `connect` middleware with the `server-static` library. The image is royalty free from here: https://pixabay.com/vectors/computer-network-router-server-159829/
